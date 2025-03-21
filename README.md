@@ -23,5 +23,5 @@ HomeBites is a MERN-based web application that connects individuals in need of h
 ## Setup & Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/homebites.git
+   git clone https://github.com/unnati-077/homebites.git
    cd homebites
